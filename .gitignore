@@ -1,9 +1,6 @@
-.claude
-
-Roofing_pictures
-
-temporary_screenshots
-
+.claude/
 CLAUDE.md
-
+Roofing_pictures/
+screenshot.mjs
 serve.mjs
+temporary_screenshots/
